@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinab Mishra
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me at -> abhinabmishra8@gmail.com
 
 <!---
